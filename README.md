@@ -1,19 +1,28 @@
-# ¡Hola, soy G. De la Torre 👋
+# ¡Hola!, soy G. De la Torre 👋
+[![Admin de Sistemas](https://img.shields.io/badge/Admin%20de%20Sistemas-IT-blue)](enlace_a_tu_perfil_o_proyecto)
+[![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-IT-blue)](enlace_a_tu_perfil_o_proyecto)
 
-Soy un Administrador de Sistemas Informáticos en Red apasionado por las tecnologías de la información, la programación y la seguridad. Bienvenido a mi rincón digital en GitHub, donde comparto proyectos, aprendizajes y soluciones.
+
+Administrador de Sistemas Informáticos en Red apasionado por las tecnologías de la información, la programación y la seguridad.  
+
+  
+Bienvenido a mi rincón digital en GitHub, donde comparto proyectos, aprendizajes y soluciones.
 
 ## Acerca de Mí
 
 - 👨‍💻 Administrador de Sistemas Informáticos en Red.
-- ✔️ Verificado en Responsive Web Design en [FreeCodeCamp](https://www.freecodecamp.org/) [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Admin%20de%20Sistemas-brightgreen)](https://www.freecodecamp.org/)
+- ✔️ Verificado en Responsive Web Design en [FreeCodeCamp](https://www.freecodecamp.org/G-dlT)
 - 🚀 Apasionado por la mejora continua y la eficiencia en las infraestructuras tecnológicas.
 - 🌐 Explorando el mundo de la programación y contribuyendo al código abierto.
 
 ## Contacto
 
-¡Conéctate conmigo en [LinkedIn](https://es.linkedin.com/in/guillermo-j-de-la-torre-aguilera-2b521b253?trk=people-guest_people_search-card) para discutir ideas, colaboraciones y más!
+¡Conéctate conmigo en [LinkedIn](https://es.linkedin.com/in/guillermo-j-de-la-torre-aguilera-2b521b253?trk=people-guest_people_search-card) para discutir ideas, colaboraciones y más!  
 
 ¡Gracias por visitar mi perfil! 😊
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20J.%20de%20la%20Torre-blue)](https://es.linkedin.com/in/guillermo-j-de-la-torre-aguilera-2b521b253)
 
 <!--
 **G-dlT/G-dlT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

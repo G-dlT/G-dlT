@@ -11,7 +11,7 @@ Bienvenido a mi rincón digital en GitHub, donde comparto proyectos, aprendizaje
 ## Acerca de Mí
 
 - 👨‍💻 Administrador de Sistemas Informáticos en Red.
-- ✔️ Verificado en Responsive Web Design en [FreeCodeCamp](https://www.freecodecamp.org/G-dlT)
+- ✔️ Certificado en Responsive Web Design en [FreeCodeCamp](https://www.freecodecamp.org/G-dlT)
 - 🚀 Apasionado por la mejora continua y la eficiencia en las infraestructuras tecnológicas.
 - 🌐 Explorando el mundo de la programación y contribuyendo al código abierto.
 

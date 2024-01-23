@@ -1,3 +1,7 @@
+<img src="images/portadaGitHub.png" alt="Portada del proyecto" width="100%">
+
+
+
 # ¡Hola!, soy G. De la Torre 👋
 [![Admin de Sistemas](https://img.shields.io/badge/Admin%20de%20Sistemas-IT-blue)](enlace_a_tu_perfil_o_proyecto)
 [![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-IT-blue)](enlace_a_tu_perfil_o_proyecto)
